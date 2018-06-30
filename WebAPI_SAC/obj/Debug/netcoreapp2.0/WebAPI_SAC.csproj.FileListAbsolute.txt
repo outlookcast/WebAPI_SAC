@@ -1,0 +1,14 @@
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\WebAPI_SAC\bin\Debug\netcoreapp2.0\DataAccess.dll
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\WebAPI_SAC\obj\Debug\netcoreapp2.0\WebAPI_SAC.csprojAssemblyReference.cache
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\WebAPI_SAC\obj\Debug\netcoreapp2.0\WebAPI_SAC.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\WebAPI_SAC\obj\Debug\netcoreapp2.0\WebAPI_SAC.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\WebAPI_SAC\obj\Debug\netcoreapp2.0\WebAPI_SAC.AssemblyInfo.cs
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\WebAPI_SAC\bin\Debug\netcoreapp2.0\WebAPI_SAC.deps.json
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\WebAPI_SAC\bin\Debug\netcoreapp2.0\WebAPI_SAC.runtimeconfig.json
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\WebAPI_SAC\bin\Debug\netcoreapp2.0\WebAPI_SAC.runtimeconfig.dev.json
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\WebAPI_SAC\bin\Debug\netcoreapp2.0\WebAPI_SAC.dll
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\WebAPI_SAC\bin\Debug\netcoreapp2.0\WebAPI_SAC.pdb
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\WebAPI_SAC\bin\Debug\netcoreapp2.0\DataAccess.pdb
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\WebAPI_SAC\obj\Debug\netcoreapp2.0\WebAPI_SAC.csproj.CopyComplete
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\WebAPI_SAC\obj\Debug\netcoreapp2.0\WebAPI_SAC.dll
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\WebAPI_SAC\obj\Debug\netcoreapp2.0\WebAPI_SAC.pdb

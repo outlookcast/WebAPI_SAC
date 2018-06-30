@@ -1,0 +1,9 @@
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\vinic\Desktop\FarmaciaUFJF\WebAPI_SAC\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
